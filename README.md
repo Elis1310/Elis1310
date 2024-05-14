@@ -1,7 +1,7 @@
-### Hi there 👋
+### Bem vindos ao meu perfil 💗
 
 <!--
-**Elis1310/Elis1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Elis1310/Elis1310** is a ✨ _special_ ✨** repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
